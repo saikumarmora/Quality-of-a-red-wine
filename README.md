@@ -31,4 +31,4 @@ Output variable (based on sensory data):
 
 collab link : https://colab.research.google.com/drive/1C4aJFhLdhRs8CFonhsJ8w6tkfIQzEyPv?usp=sharing
 
-ppt link : https://web.whatsapp.com/47628655-563a-421d-bab4-2fe03da2b6c7
+ppt link : hhtp://bpmcpldpdmajfigpchkicefoigmkfalc/views/app.html
